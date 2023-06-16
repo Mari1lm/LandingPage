@@ -2,7 +2,7 @@
 Safe Life 
 
 # Información del Proyecto
-Safe Life es un proyecto que propone la creación de una aplicación, la cual está destinada hacia aquellas personas que se sientan inseguras al salir a la calle, ya que gracias a esta aplicación ellos pueden tener información y datos sobre los recientes robos en las calles donde transita. 
+Safe Life es un proyecto que propone la creación de una aplicación, la cual está destinada hacia aquellas personas que se sienten inseguras al salir a la calle, ya que gracias a esta aplicación ellos pueden tener información y datos sobre los recientes robos en las calles donde transita. 
 
 # Autores
 Cabrejos Rojas, María del Carmen - U202117624
