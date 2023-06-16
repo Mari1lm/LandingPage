@@ -40,5 +40,5 @@ Como cuarto segmento objetivo se encontraría las personas que van a realizar ac
 
 # Principales características ofrecidas por la solución digital 
 * Nuestra app ofrecerá un sistema de búsqueda en la cual tu puedes decir una zona, y te aparecerán distintas localizaciones de esa misma zona con la información relacionada a los delitos cometidos.
-* Otra característica es la búsqueda avanzada, en donde los usuarios pueden colocar una ubicación precisa y el servicio te otorgará toda la información relacionada a los delitos cometidos.
+* Otra característica es la búsqueda avanzada, en donde los usuarios pueden colocar una ubicación precisa y el servicio te otorgará toda la información relacionada a los delitos cometidos en la zona escogida.
 * Otra característica es la función de un foro en donde los usuarios pueden compartir información relacionada a las zonas que visitaron.
