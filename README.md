@@ -36,7 +36,7 @@ Como tercer segmento objetivo nos encontramos con las empresas de servicios a do
 4º Segmento Objetivo:
 Como cuarto segmento objetivo se encontraría las personas que van a realizar actividades financieras en los bancos, ya que en la actualidad muchas personas son asaltadas al momento de salir de una entidad bancaria después de realizar un retiro de dinero. Por lo que para que estas personas puedan sentirse más seguras pueden contratar el servicio de tal modo que le notifique si existe la posibilidad de ser asaltado por un delincuente.
 
-![](https://img2.freepng.es/20180305/lee/kisspng-online-banking-money-drawing-bank-building-5a9d3b87dfff93.0438617315202538319175.jpg)
+![](https://png.pngtree.com/png-vector/20190130/ourlarge/pngtree-cartoon-bank-high-rise-building-elements-managementbankbluebuildingdesign-element-png-image_654272.jpg)
 
 # Principales características ofrecidas por la solución digital 
 * Nuestra app ofrecerá una sistema de búsqueda que pueda en donde tu puedes decir una zona, y te aparecerán distintas localizaciones de esa misma zona con la información relacionada a los delitos cometidos.
