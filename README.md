@@ -20,6 +20,7 @@ Palian Muñoz, Juan Frank - U201714258
 # Segmentos Objetivos
 1º Segmento Objetivo:
 Como primer segmento objetivo, nos encontramos con los jóvenes estudiantes, que van desde secundaria hasta universitarios, considerando que ellos deben ir a sus respectivos centros de estudios, por lo que pasan mucho tiempo en la calle. Y es posible lograr captar su atención con promociones para estudiantes como ya es habitual en los servicios actuales.
+
 ![](https://w7.pngwing.com/pngs/889/18/png-transparent-male-and-female-cartoon-college-students-the-man-woman-college-students-thumbnail.png)
 
 2º Segmento Objetivo:
