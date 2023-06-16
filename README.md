@@ -26,12 +26,17 @@ Como primer segmento objetivo, nos encontramos con los jóvenes estudiantes, que
 2º Segmento Objetivo:
 Como segundo segmento objetivo se encuentran los padres de familia, debido a que ellos salen mucho de casa, en labores como comprar los ingredientes para preparar la comida, recoger a los niños del colegio o de la guardería, etc. Y nuestra manera de poder atraerles sería mediante planes familiares. De esa manera pueden tener más seguridad a la hora de salir ellas o sus familiares.
 
+![](https://img.freepik.com/vector-gratis/diseno-plano-dia-internacional-concepto-familia_23-2148492790.jpg?w=360)
+
 3º Segmento Objetivo:
 Como tercer segmento objetivo nos encontramos con las empresas de servicios a domicilio, dado que la delincuencia ha ido en aumento lo cual provoca que varios trabajadores sean atracados, de tal modo que las empresas puedan contratar este servicio para mantener la seguridad de sus trabajadores.
+
+![](https://images.vexels.com/media/users/3/199964/isolated/preview/ae782cab8ae7e722febb5869c09574cc-feliz-personaje-de-repartidor.png)
 
 4º Segmento Objetivo:
 Como cuarto segmento objetivo se encontraría las personas que van a realizar actividades financieras en los bancos, ya que en la actualidad muchas personas son asaltadas al momento de salir de una entidad bancaria después de realizar un retiro de dinero. Por lo que para que estas personas puedan sentirse más seguras pueden contratar el servicio de tal modo que le notifique si existe la posibilidad de ser asaltado por un delincuente.
 
+![](https://png.pngtree.com/png-clipart/20210108/ourlarge/pngtree-bank-clip-art-cartoon-style-orange-building-office-building-light-blue-png-image_2679180.jpg)
 
 # Principales características ofrecidas por la solución digital 
 * Nuestra app ofrecerá una sistema de búsqueda que pueda en donde tu puedes decir una zona, y te aparecerán distintas localizaciones de esa misma zona con la información relacionada a los delitos cometidos.
