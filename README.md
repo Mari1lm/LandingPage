@@ -34,7 +34,7 @@ Como tercer segmento objetivo nos encontramos con las empresas de servicios a do
 ![](https://images.vexels.com/media/users/3/199964/isolated/preview/ae782cab8ae7e722febb5869c09574cc-feliz-personaje-de-repartidor.png)
 
 4º Segmento Objetivo:
-Como cuarto segmento objetivo se encontraría las personas que van a realizar actividades financieras en los bancos, ya que en la actualidad muchas personas son asaltadas al momento de salir de una entidad bancaria después de realizar un retiro de dinero. Por lo que para que estas personas puedan sentirse más seguras pueden contratar el servicio de tal modo que le notifique si existe la posibilidad de ser asaltado por un delincuente.
+Como cuarto segmento objetivo están las personas que van a realizar actividades financieras en los bancos, ya que en la actualidad muchas personas son asaltadas al momento de salir de una entidad bancaria después de realizar un retiro de dinero. Por lo que para que estas personas puedan sentirse más seguras pueden contratar el servicio de tal modo que le notifique si existe la posibilidad de ser asaltado por un delincuente.
 
 ![](https://png.pngtree.com/png-vector/20190130/ourlarge/pngtree-cartoon-bank-high-rise-building-elements-managementbankbluebuildingdesign-element-png-image_654272.jpg)
 
